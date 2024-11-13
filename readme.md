@@ -1,4 +1,4 @@
-# RackNerd: 2024 Latest Coupon Codes - Black Friday & More
+# RackNerd: Latest Coupon Codes - Black Friday & More
 
 ## RackNerd LLC Overview
 RackNerd LLC is a prominent provider of VPS and dedicated servers, offering reliable and high-performance solutions tailored to meet various hosting needs.
@@ -18,11 +18,11 @@ Visit [RackNerd](https://my.racknerd.com/aff.php?aff=11520
 
 | Memory | CPU | SSD | Bandwidth | IP | Price | Purchase Link |
 |--------|-----|-----|-----------|----| ------|---------------|
-| 1G | 1 Core | 30G | 1TB/month | 1 | $5/month | [Buy Now](#https://my.racknerd.com/aff.php?aff=11520
+| 1G | 1 Core | 30G | 1TB/month | 1 | $5/month | [Buy Now](https://my.racknerd.com/aff.php?aff=11520
 ) |
-| 2G | 1 Core | 50G | 2TB/month | 1 | $10/month | [Buy Now](#https://my.racknerd.com/aff.php?aff=11520
+| 2G | 1 Core | 50G | 2TB/month | 1 | $10/month | [Buy Now](https://my.racknerd.com/aff.php?aff=11520
 ) |
-| 4G | 2 Cores | 80G | 3TB/month | 1 | $15/month | [Buy Now](#https://my.racknerd.com/aff.php?aff=11520
+| 4G | 2 Cores | 80G | 3TB/month | 1 | $15/month | [Buy Now](https://my.racknerd.com/aff.php?aff=11520
 ) |
 
 ## RackNerd Reviews
