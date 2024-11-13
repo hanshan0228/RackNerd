@@ -18,12 +18,9 @@ Visit [RackNerd](https://my.racknerd.com/aff.php?aff=11520
 
 | Memory | CPU | SSD | Bandwidth | IP | Price | Purchase Link |
 |--------|-----|-----|-----------|----| ------|---------------|
-| 1G | 1 Core | 30G | 1TB/month | 1 | $5/month | [Buy Now](https://my.racknerd.com/aff.php?aff=11520
-) |
-| 2G | 1 Core | 50G | 2TB/month | 1 | $10/month | [Buy Now](https://my.racknerd.com/aff.php?aff=11520
-) |
-| 4G | 2 Cores | 80G | 3TB/month | 1 | $15/month | [Buy Now](https://my.racknerd.com/aff.php?aff=11520
-) |
+| 1G | 1 Core | 30G | 1TB/month | 1 | $5/month | [Buy Now](https://my.racknerd.com/aff.php?aff=11520) |
+| 2G | 1 Core | 50G | 2TB/month | 1 | $10/month | [Buy Now](https://my.racknerd.com/aff.php?aff=11520) |
+| 4G | 2 Cores | 80G | 3TB/month | 1 | $15/month | [Buy Now](https://my.racknerd.com/aff.php?aff=11520) |
 
 ## RackNerd Reviews
 Customers consistently praise RackNerd LLC for its outstanding service and robust performance. RackNerd VPS plans are noted for their stability and flexibility, making them a top choice for users worldwide.
