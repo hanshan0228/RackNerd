@@ -1,4 +1,4 @@
-# RackNerd: Latest Coupon Codes - Black Friday & More
+# RackNerd VPS: Latest Coupon Codes - Black Friday & More
 
 ## RackNerd LLC Overview
 RackNerd LLC is a prominent provider of VPS and dedicated servers, offering reliable and high-performance solutions tailored to meet various hosting needs.
